@@ -1,0 +1,28 @@
+---
+title: "Research on listing price prediction of real estate based on machine learning model"
+
+subtitle: "MUSA 550: Final Project"
+---
+
+## Welcome to Our Final Project!
+
+We are interested in home price prediction and have selected a Utah real estate dataset for our project analysis.
+
+## About the Project
+
+This project uses a Utah real estate dataset to build machine learning models to predict real estate listing prices. The dataset contains 4,440 real estate entries, each covering 14 different attributes, providing a comprehensive and detailed description of the various characteristics and conditions of a property.
+Analysis Goal: To accurately predict the listing price of a property through a variety of visualization and clustering algorithms, machine learning regression models, and other methods. To achieve this goal, several key attributes of the property will be considered, including property type, detailed description, year built, number of bedrooms and bathrooms, amount of garage space, lot size, total house square footage, floor layout, list price, and last sale date. Analyze and understand in depth the extent to which these factors affect the price of the property.
+
+## Answer the following questions primarily
+
+What are the relationships between the variables in the data set?
+
+How do different attributes affect the listing price? This helps to identify the key factors that determine the value of the property.
+
+Which is the most accurate model for predicting house prices?
+
+The research in this project contributes to a better understanding of the real estate market and provides a valuable reference for real estate valuation and investment decisions.
+
+## Data source
+
+https://www.kaggle.com/datasets/kanchana1990/real-estate-data-utah-2024

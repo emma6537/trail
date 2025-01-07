@@ -1,0 +1,5 @@
+# Analysis 
+
+The purpose of the project is to use the Utah Real Estate dataset to predict real estate listing prices through visual clustering algorithms and machine learning regression models. The dataset contains 4,440 entries and 14 attributes that comprehensively characterize property features and conditions. The analysis will explore the relationships between variables and assess the impact of different attributes on listing prices to identify key determinants of property values. The ultimate goal is to identify the most accurate model for predicting home prices, providing insights into the real estate market and a valuable reference for property valuation and investment decisions. This study helps to improve the understanding of the real estate market, optimize investment decisions, and promote the healthy development of the real estate market.
+
+The following begins to describe the analysis of this study.
